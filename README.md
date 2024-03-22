@@ -18,7 +18,7 @@ La aplicación de Control de Cambios está diseñada para gestionar y documentar
 
 Sigue estos pasos para instalar la aplicación:
 
-\`\`\`bash
+```bash
 git clone https://github.com/tu_usuario/control-de-cambios.git
 cd control-de-cambios
 python3 -m venv venv
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
-\`\`\`
+```
 
 ## Configuración del Admin
 
@@ -35,7 +35,7 @@ En `admin.py`, se definen las siguientes clases para la administración de los m
 
 ### CustomControlAdmin
 
-\`\`\`python
+```python
 class CustomControlAdmin(admin.ModelAdmin):
     list_display = ['Titulo', 'Ticket', 'Fecha', 'Supervisor', 'Decripcion_Corta']
     actions = [enviar_correo_control_de_cambios, generar_pdf_control_de_cambios]
@@ -51,11 +51,11 @@ class CustomControlAdmin(admin.ModelAdmin):
         (_('Logística de pruebas de seguridad'), {'fields': ('Pruebas_Seguridad',)})
     )
     readonly_fields = ['Titulo', 'Destinatarios_Correo', 'responsables']
-\`\`\`
+```
 
 ### ImpactoAdmin, PrioridadAdmin, AprobacionAdmin
 
-\`\`\`python
+```python
 @admin.register(Impacto)
 class ImpactoAdmin(admin.ModelAdmin):
     list_display = ['Titulo', 'Descripcion']
@@ -68,7 +68,7 @@ class PrioridadAdmin(admin.ModelAdmin):
 class AprobacionAdmin(admin.ModelAdmin):
     list_display = ['Control', 'Aprobado_Por', 'Fecha']
     readonly_fields = ['Aprobado_Por', 'Fecha']
-\`\`\`
+```
 
 ## Modelos
 
