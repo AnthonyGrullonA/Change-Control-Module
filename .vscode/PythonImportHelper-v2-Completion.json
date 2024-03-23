@@ -1,0 +1,1005 @@
+[
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django_ckeditor_5.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_ckeditor_5.fields",
+        "description": "django_ckeditor_5.fields",
+        "detail": "django_ckeditor_5.fields",
+        "documentation": {}
+    },
+    {
+        "label": "CKEditor5Field",
+        "importPath": "django_ckeditor_5.fields",
+        "description": "django_ckeditor_5.fields",
+        "isExtraImport": true,
+        "detail": "django_ckeditor_5.fields",
+        "documentation": {}
+    },
+    {
+        "label": "EmailGroup",
+        "importPath": "authentication.models",
+        "description": "authentication.models",
+        "isExtraImport": true,
+        "detail": "authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "importPath": "authentication.models",
+        "description": "authentication.models",
+        "isExtraImport": true,
+        "detail": "authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmailGroup",
+        "importPath": "authentication.models",
+        "description": "authentication.models",
+        "isExtraImport": true,
+        "detail": "authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMultiAlternatives",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEImage",
+        "importPath": "email.mime.image",
+        "description": "email.mime.image",
+        "isExtraImport": true,
+        "detail": "email.mime.image",
+        "documentation": {}
+    },
+    {
+        "label": "pdfkit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfkit",
+        "description": "pdfkit",
+        "detail": "pdfkit",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.template.defaultfilters",
+        "description": "django.template.defaultfilters",
+        "isExtraImport": true,
+        "detail": "django.template.defaultfilters",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_secret_key",
+        "importPath": "django.core.management.utils",
+        "description": "django.core.management.utils",
+        "isExtraImport": true,
+        "detail": "django.core.management.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "authentication.migrations.0001_initial",
+        "description": "authentication.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CustomUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "authentication.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "authentication.migrations.0002_emailgroup",
+        "description": "authentication.migrations.0002_emailgroup",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('authentication', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='EmailGroup',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=150, unique=True)),",
+        "detail": "authentication.migrations.0002_emailgroup",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserAdmin",
+        "kind": 6,
+        "importPath": "authentication.admin",
+        "description": "authentication.admin",
+        "peekOfCode": "class CustomUserAdmin(UserAdmin):\n    fieldsets = (\n        (None, {'fields': ('email', 'password')}),\n        (_('Personal info'), {'fields': ('first_name', 'last_name', )}),\n        (_('Permissions'), {'fields': ('is_active', 'is_staff', 'is_superuser', 'groups', 'user_permissions')}),\n        (_('Important dates'), {'fields': ('last_login', 'date_joined')}),\n    )\n    add_fieldsets = (\n        (None, {\n            'classes': ('wide',),",
+        "detail": "authentication.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EmailGroupMemberInline",
+        "kind": 6,
+        "importPath": "authentication.admin",
+        "description": "authentication.admin",
+        "peekOfCode": "class EmailGroupMemberInline(admin.TabularInline):\n    model = EmailGroup.members.through\n    extra = 1\n    #verbose_name_plural = 'Members'\n@admin.register(EmailGroup)\nclass EmailGroupAdmin(admin.ModelAdmin):\n    inlines = (EmailGroupMemberInline,)\n    list_display = ('name',)\n    search_fields = ('name',)\n    fields = ('name', 'members')",
+        "detail": "authentication.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EmailGroupAdmin",
+        "kind": 6,
+        "importPath": "authentication.admin",
+        "description": "authentication.admin",
+        "peekOfCode": "class EmailGroupAdmin(admin.ModelAdmin):\n    inlines = (EmailGroupMemberInline,)\n    list_display = ('name',)\n    search_fields = ('name',)\n    fields = ('name', 'members')\n    readonly_fields = ['members']",
+        "detail": "authentication.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationConfig",
+        "kind": 6,
+        "importPath": "authentication.apps",
+        "description": "authentication.apps",
+        "peekOfCode": "class AuthenticationConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'authentication'",
+        "detail": "authentication.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserManager",
+        "kind": 6,
+        "importPath": "authentication.models",
+        "description": "authentication.models",
+        "peekOfCode": "class CustomUserManager(BaseUserManager):\n    def create_user(self, email, password=None, **extra_fields):\n        if not email:\n            raise ValueError('El campo de correo electrónico es obligatorio')\n        email = self.normalize_email(email)\n        user = self.model(email=email, **extra_fields)\n        user.set_password(password)\n        user.save(using=self._db)\n        return user\n    def create_superuser(self, email, password=None, **extra_fields):",
+        "detail": "authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "kind": 6,
+        "importPath": "authentication.models",
+        "description": "authentication.models",
+        "peekOfCode": "class CustomUser(AbstractBaseUser, PermissionsMixin):\n    email = models.EmailField(unique=True)\n    username = models.CharField(max_length=150, blank=True)\n    first_name = models.CharField(max_length=30, blank=True)\n    last_name = models.CharField(max_length=150, blank=True)\n    date_joined = models.DateTimeField(default=timezone.now)\n    is_active = models.BooleanField(default=True)\n    is_staff = models.BooleanField(default=False)\n    USERNAME_FIELD = 'email'\n    REQUIRED_FIELDS = []",
+        "detail": "authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmailGroup",
+        "kind": 6,
+        "importPath": "authentication.models",
+        "description": "authentication.models",
+        "peekOfCode": "class EmailGroup(models.Model):\n    name = models.CharField(max_length=150, unique=True)\n    members = models.ManyToManyField(CustomUser, related_name='email_groups', blank=True)\n    def __str__(self):\n        return self.name\n        #return self.name + \" (\" + \", \".join(member.email for member in self.members.all()) + \")\"",
+        "detail": "authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0001_initial",
+        "description": "cambio.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Control',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "cambio.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0002_alter_aprobacion_options_alter_control_options_and_more",
+        "description": "cambio.migrations.0002_alter_aprobacion_options_alter_control_options_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='aprobacion',\n            options={'verbose_name': 'Aprobacion', 'verbose_name_plural': 'Aprobaciones'},\n        ),\n        migrations.AlterModelOptions(",
+        "detail": "cambio.migrations.0002_alter_aprobacion_options_alter_control_options_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0003_control_solicitud_control_supervisor",
+        "description": "cambio.migrations.0003_control_solicitud_control_supervisor",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0002_alter_aprobacion_options_alter_control_options_and_more'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='control',\n            name='Solicitud',\n            field=models.ForeignKey(default='', on_delete=django.db.models.deletion.CASCADE, to='cambio.solicitud'),",
+        "detail": "cambio.migrations.0003_control_solicitud_control_supervisor",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0004_alter_control_solicitud_alter_control_supervisor",
+        "description": "cambio.migrations.0004_alter_control_solicitud_alter_control_supervisor",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0003_control_solicitud_control_supervisor'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='control',\n            name='Solicitud',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='cambio.solicitud'),",
+        "detail": "cambio.migrations.0004_alter_control_solicitud_alter_control_supervisor",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0005_remove_aprobacion_firma",
+        "description": "cambio.migrations.0005_remove_aprobacion_firma",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0004_alter_control_solicitud_alter_control_supervisor'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='aprobacion',\n            name='Firma',\n        ),\n    ]",
+        "detail": "cambio.migrations.0005_remove_aprobacion_firma",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0006_aprobacion_fecha",
+        "description": "cambio.migrations.0006_aprobacion_fecha",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0005_remove_aprobacion_firma'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='aprobacion',\n            name='Fecha',\n            field=models.DateTimeField(auto_now_add=True, default=django.utils.timezone.now),\n            preserve_default=False,",
+        "detail": "cambio.migrations.0006_aprobacion_fecha",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0007_control_evidencias_pruebas_seguridad",
+        "description": "cambio.migrations.0007_control_evidencias_pruebas_seguridad",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0006_aprobacion_fecha'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='control',\n            name='Evidencias_Pruebas_Seguridad',\n            field=django_ckeditor_5.fields.CKEditor5Field(blank=True, null=True, verbose_name='Text'),\n        ),",
+        "detail": "cambio.migrations.0007_control_evidencias_pruebas_seguridad",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0008_departamento_and_more",
+        "description": "cambio.migrations.0008_departamento_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0007_control_evidencias_pruebas_seguridad'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Departamento',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('Nombre_Departamento', models.CharField(max_length=100)),",
+        "detail": "cambio.migrations.0008_departamento_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0009_alter_control_departamento",
+        "description": "cambio.migrations.0009_alter_control_departamento",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0008_departamento_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='control',\n            name='Departamento',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='cambio.departamento'),\n        ),",
+        "detail": "cambio.migrations.0009_alter_control_departamento",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0010_alter_control_options_alter_departamento_options_and_more",
+        "description": "cambio.migrations.0010_alter_control_options_alter_departamento_options_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0009_alter_control_departamento'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='control',\n            options={'verbose_name': 'Control de cambios', 'verbose_name_plural': 'Controles de cambios'},\n        ),\n        migrations.AlterModelOptions(",
+        "detail": "cambio.migrations.0010_alter_control_options_alter_departamento_options_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0011_alter_solicitud_fecha",
+        "description": "cambio.migrations.0011_alter_solicitud_fecha",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0010_alter_control_options_alter_departamento_options_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='solicitud',\n            name='Fecha',\n            field=models.DateTimeField(auto_now_add=True),\n        ),",
+        "detail": "cambio.migrations.0011_alter_solicitud_fecha",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0012_alter_control_fecha",
+        "description": "cambio.migrations.0012_alter_control_fecha",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0011_alter_solicitud_fecha'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='control',\n            name='Fecha',\n            field=models.DateField(),\n        ),",
+        "detail": "cambio.migrations.0012_alter_control_fecha",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0013_remove_control_solicitud_delete_solicitud",
+        "description": "cambio.migrations.0013_remove_control_solicitud_delete_solicitud",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0012_alter_control_fecha'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='control',\n            name='Solicitud',\n        ),\n        migrations.DeleteModel(",
+        "detail": "cambio.migrations.0013_remove_control_solicitud_delete_solicitud",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0014_control_destinatarios_correo",
+        "description": "cambio.migrations.0014_control_destinatarios_correo",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('authentication', '0002_emailgroup'),\n        ('cambio', '0013_remove_control_solicitud_delete_solicitud'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='control',\n            name='Destinatarios_Correo',\n            field=models.ManyToManyField(blank=True, related_name='email_groups', to='authentication.emailgroup'),",
+        "detail": "cambio.migrations.0014_control_destinatarios_correo",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0015_alter_control_email_responsable",
+        "description": "cambio.migrations.0015_alter_control_email_responsable",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0014_control_destinatarios_correo'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='control',\n            name='Email',\n            field=models.EmailField(max_length=254),\n        ),",
+        "detail": "cambio.migrations.0015_alter_control_email_responsable",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cambio.migrations.0016_remove_control_departamento_remove_control_email_and_more",
+        "description": "cambio.migrations.0016_remove_control_departamento_remove_control_email_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('cambio', '0015_alter_control_email_responsable'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='control',\n            name='Departamento',\n        ),\n        migrations.RemoveField(",
+        "detail": "cambio.migrations.0016_remove_control_departamento_remove_control_email_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "EmailGroupMemberInline",
+        "kind": 6,
+        "importPath": "cambio.admin",
+        "description": "cambio.admin",
+        "peekOfCode": "class EmailGroupMemberInline(admin.TabularInline):\n    model = Control.Destinatarios_Correo.through\n    extra = 1\n    verbose_name_plural = 'Destinatarios'\nclass ResponsablesInline(admin.TabularInline):\n    model = Control.responsables.through\n    extra = 1\n    verbose_name_plural = 'Responsables'\nclass CustomControlAdmin(admin.ModelAdmin):\n    list_display = ['Titulo', 'Ticket', 'Fecha', 'Supervisor', 'Decripcion_Corta']",
+        "detail": "cambio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ResponsablesInline",
+        "kind": 6,
+        "importPath": "cambio.admin",
+        "description": "cambio.admin",
+        "peekOfCode": "class ResponsablesInline(admin.TabularInline):\n    model = Control.responsables.through\n    extra = 1\n    verbose_name_plural = 'Responsables'\nclass CustomControlAdmin(admin.ModelAdmin):\n    list_display = ['Titulo', 'Ticket', 'Fecha', 'Supervisor', 'Decripcion_Corta']\n    actions = [enviar_correo_control_de_cambios, generar_pdf_control_de_cambios]\n    inlines = (EmailGroupMemberInline, ResponsablesInline)\n    list_filter = ('Fecha', 'responsables', 'Supervisor', )\n    search_fields = ('responsables', 'Fecha')",
+        "detail": "cambio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CustomControlAdmin",
+        "kind": 6,
+        "importPath": "cambio.admin",
+        "description": "cambio.admin",
+        "peekOfCode": "class CustomControlAdmin(admin.ModelAdmin):\n    list_display = ['Titulo', 'Ticket', 'Fecha', 'Supervisor', 'Decripcion_Corta']\n    actions = [enviar_correo_control_de_cambios, generar_pdf_control_de_cambios]\n    inlines = (EmailGroupMemberInline, ResponsablesInline)\n    list_filter = ('Fecha', 'responsables', 'Supervisor', )\n    search_fields = ('responsables', 'Fecha')\n    fieldsets = (\n        (_('Documento'), {'fields': ('Titulo', 'Ticket', 'Fecha', 'Supervisor', 'Destinatarios_Correo',)}),\n        (_('Responsables'), {'fields': ('responsables', )}),\n        (_('Información de trabajo para el control de cambios'), {'fields': ('Facilidad', 'Dispositivo', 'Decripcion_Corta', 'Objetivo', 'Impacto', 'Prioridad')}),",
+        "detail": "cambio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ImpactoAdmin",
+        "kind": 6,
+        "importPath": "cambio.admin",
+        "description": "cambio.admin",
+        "peekOfCode": "class ImpactoAdmin(admin.ModelAdmin):\n    list_display = ['Titulo', 'Descripcion']\n@admin.register(Prioridad)\nclass PrioridadAdmin(admin.ModelAdmin):\n    list_display = ['Nivel', 'Descripcion']\n@admin.register(Aprobacion)\nclass AprobacionAdmin(admin.ModelAdmin):\n    list_display = ['Control', 'Aprobado_Por', 'Fecha']\n    readonly_fields = ['Aprobado_Por', 'Fecha']\n    def save_model(self, request, obj, form, change):",
+        "detail": "cambio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PrioridadAdmin",
+        "kind": 6,
+        "importPath": "cambio.admin",
+        "description": "cambio.admin",
+        "peekOfCode": "class PrioridadAdmin(admin.ModelAdmin):\n    list_display = ['Nivel', 'Descripcion']\n@admin.register(Aprobacion)\nclass AprobacionAdmin(admin.ModelAdmin):\n    list_display = ['Control', 'Aprobado_Por', 'Fecha']\n    readonly_fields = ['Aprobado_Por', 'Fecha']\n    def save_model(self, request, obj, form, change):\n        if not obj.Aprobado_Por_id:\n            obj.Aprobado_Por = request.user\n        super().save_model(request, obj, form, change)",
+        "detail": "cambio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AprobacionAdmin",
+        "kind": 6,
+        "importPath": "cambio.admin",
+        "description": "cambio.admin",
+        "peekOfCode": "class AprobacionAdmin(admin.ModelAdmin):\n    list_display = ['Control', 'Aprobado_Por', 'Fecha']\n    readonly_fields = ['Aprobado_Por', 'Fecha']\n    def save_model(self, request, obj, form, change):\n        if not obj.Aprobado_Por_id:\n            obj.Aprobado_Por = request.user\n        super().save_model(request, obj, form, change)\n    def get_readonly_fields(self, request, obj=None):\n        if obj:\n            return self.readonly_fields + ['Control']",
+        "detail": "cambio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "generar_pdf_control_de_cambios",
+        "kind": 2,
+        "importPath": "cambio.admin_function",
+        "description": "cambio.admin_function",
+        "peekOfCode": "def generar_pdf_control_de_cambios(modeladmin, request, queryset):\n    def get_email_groups(control):\n        # Esta función recopila todos los correos de los grupos asociados y los devuelve\n        email_groups = control.Destinatarios_Correo.all()\n        emails = []\n        for group in email_groups:\n            emails.extend([member.email for member in group.members.all()])\n        return emails  # Devuelve una lista de correos electrónicos \n    for control in queryset:\n        # Analiza el HTML de Logistica_Validacion y Procedimiento_Rollback para obtener las imágenes",
+        "detail": "cambio.admin_function",
+        "documentation": {}
+    },
+    {
+        "label": "enviar_correo_control_de_cambios",
+        "kind": 2,
+        "importPath": "cambio.admin_function",
+        "description": "cambio.admin_function",
+        "peekOfCode": "def enviar_correo_control_de_cambios(modeladmin, request, queryset):\n    def get_email_groups(control):\n        # Esta función recopila todos los correos de los grupos asociados y los devuelve\n        email_groups = control.Destinatarios_Correo.all()\n        emails = []\n        for group in email_groups:\n            emails.extend([member.email for member in group.members.all()])\n        return emails  # Devuelve una lista de correos electrónicos \n    for control in queryset:\n        # Analiza el HTML de Logistica_Validacion y Procedimiento_Rollback para obtener las imágenes",
+        "detail": "cambio.admin_function",
+        "documentation": {}
+    },
+    {
+        "label": "generar_pdf_control_de_cambios.short_description",
+        "kind": 5,
+        "importPath": "cambio.admin_function",
+        "description": "cambio.admin_function",
+        "peekOfCode": "generar_pdf_control_de_cambios.short_description = 'Generar PDF de Control de Cambios'\n####################################################################\ndef enviar_correo_control_de_cambios(modeladmin, request, queryset):\n    def get_email_groups(control):\n        # Esta función recopila todos los correos de los grupos asociados y los devuelve\n        email_groups = control.Destinatarios_Correo.all()\n        emails = []\n        for group in email_groups:\n            emails.extend([member.email for member in group.members.all()])\n        return emails  # Devuelve una lista de correos electrónicos ",
+        "detail": "cambio.admin_function",
+        "documentation": {}
+    },
+    {
+        "label": "CambioConfig",
+        "kind": 6,
+        "importPath": "cambio.apps",
+        "description": "cambio.apps",
+        "peekOfCode": "class CambioConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'cambio'\n    verbose_name = 'Procedimiento de cambio - NAP Del Caribe'",
+        "detail": "cambio.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Impacto",
+        "kind": 6,
+        "importPath": "cambio.models",
+        "description": "cambio.models",
+        "peekOfCode": "class Impacto(models.Model):\n    Titulo = models.CharField(max_length=100)\n    Descripcion = models.TextField()\n    def __str__(self):\n        return f\"{self.Titulo}\"\n    class Meta:\n        verbose_name = \"Impacto\"\n        verbose_name_plural = \"Impactos\"\nclass Prioridad(models.Model):\n    Nivel = models.CharField(max_length=100)",
+        "detail": "cambio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Prioridad",
+        "kind": 6,
+        "importPath": "cambio.models",
+        "description": "cambio.models",
+        "peekOfCode": "class Prioridad(models.Model):\n    Nivel = models.CharField(max_length=100)\n    Descripcion = models.TextField()\n    def __str__(self):\n        return f\"{self.Nivel}\"\n    class Meta:\n        verbose_name = \"Prioridad\"\n        verbose_name_plural = \"Prioridades\"\nclass Departamento(models.Model):\n    Nombre_Departamento = models.CharField(max_length=100)",
+        "detail": "cambio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Departamento",
+        "kind": 6,
+        "importPath": "cambio.models",
+        "description": "cambio.models",
+        "peekOfCode": "class Departamento(models.Model):\n    Nombre_Departamento = models.CharField(max_length=100)\n    def __str__(self):\n        return self.Nombre_Departamento\n    class Meta:\n        verbose_name = \"Departamento\"\n        verbose_name_plural = \"Departamento\"\nclass Responsable(models.Model):\n    nombre_completo = models.CharField(max_length=100)\n    departamento = models.ForeignKey(Departamento, on_delete=models.CASCADE)",
+        "detail": "cambio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Responsable",
+        "kind": 6,
+        "importPath": "cambio.models",
+        "description": "cambio.models",
+        "peekOfCode": "class Responsable(models.Model):\n    nombre_completo = models.CharField(max_length=100)\n    departamento = models.ForeignKey(Departamento, on_delete=models.CASCADE)\n    posicion = models.CharField(max_length=100)\n    email = models.EmailField()\n    numero_contacto = models.CharField(max_length=10)\n    def __str__(self):\n        return f'{self.nombre_completo} - {self.posicion}'\n    class Meta:\n        verbose_name = \"Responsable\"",
+        "detail": "cambio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Control",
+        "kind": 6,
+        "importPath": "cambio.models",
+        "description": "cambio.models",
+        "peekOfCode": "class Control(models.Model):\n    ESTADO_CHOICES = [\n        ('none', '. . .'),\n        ('east', 'NAP EAST'),\n        ('west', 'NAP WEST')\n    ]    \n    #Seccion de titulo \n    Titulo = models.CharField(max_length=100, default='Formulario Control de Cambios | Interno | V4')\n    Ticket = models.CharField(max_length=100)\n    Fecha = models.DateField()",
+        "detail": "cambio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aprobacion",
+        "kind": 6,
+        "importPath": "cambio.models",
+        "description": "cambio.models",
+        "peekOfCode": "class Aprobacion(models.Model):\n    Control = models.ForeignKey(Control, on_delete=models.CASCADE)\n    Aprobado_Por = models.ForeignKey(User, on_delete=models.CASCADE)\n    Fecha = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.Control)\n    class Meta:\n        verbose_name = \"Aprobacion\"\n        verbose_name_plural = \"Aprobaciones\"",
+        "detail": "cambio.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cambio.urls",
+        "description": "cambio.urls",
+        "peekOfCode": "urlpatterns = [\n]",
+        "detail": "cambio.urls",
+        "documentation": {}
+    },
+    {
+        "label": "subject",
+        "kind": 5,
+        "importPath": "scripts.email_Test",
+        "description": "scripts.email_Test",
+        "peekOfCode": "subject = 'Asunto del correo'\nmessage = 'Contenido del correo'\nfrom_email = 'grullona283@gmail.com'\nrecipient_list = ['jgrullon@napdelcaribe.com.do']\nsend_mail(subject, message, from_email, recipient_list)",
+        "detail": "scripts.email_Test",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "scripts.email_Test",
+        "description": "scripts.email_Test",
+        "peekOfCode": "message = 'Contenido del correo'\nfrom_email = 'grullona283@gmail.com'\nrecipient_list = ['jgrullon@napdelcaribe.com.do']\nsend_mail(subject, message, from_email, recipient_list)",
+        "detail": "scripts.email_Test",
+        "documentation": {}
+    },
+    {
+        "label": "from_email",
+        "kind": 5,
+        "importPath": "scripts.email_Test",
+        "description": "scripts.email_Test",
+        "peekOfCode": "from_email = 'grullona283@gmail.com'\nrecipient_list = ['jgrullon@napdelcaribe.com.do']\nsend_mail(subject, message, from_email, recipient_list)",
+        "detail": "scripts.email_Test",
+        "documentation": {}
+    },
+    {
+        "label": "recipient_list",
+        "kind": 5,
+        "importPath": "scripts.email_Test",
+        "description": "scripts.email_Test",
+        "peekOfCode": "recipient_list = ['jgrullon@napdelcaribe.com.do']\nsend_mail(subject, message, from_email, recipient_list)",
+        "detail": "scripts.email_Test",
+        "documentation": {}
+    }
+]
