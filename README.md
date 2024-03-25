@@ -1,4 +1,4 @@
-# Control de Cambios Django App
+# Control de Cambios Django Module
 
 Este documento describe la aplicación de Control de Cambios desarrollada con Django, incluyendo detalles sobre la administración del modelo, campos y funcionalidades administrativas.
 
